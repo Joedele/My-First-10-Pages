@@ -56,7 +56,7 @@ html, body{
 .container {
 	margin: 0;
 	padding: 16;
-	background-image: url('./apple.jpeg');
+	background-image: url('apple.jpeg');
 	background-attachment: fixed;
 	background-repeat: no-repeat;
 	background-size: cover;
